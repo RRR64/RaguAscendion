@@ -1,0 +1,15 @@
+<employees>
+
+<employee>
+       <id> 101 </id>
+       <name> Raguram</name>
+       <Gender>  Male </Gender>
+</employee>
+
+<employee>
+       <id> 201 </id>
+       <name> Ramdoss</name>
+       <Gender>  Female </Gender>
+</employee>
+
+</employees>

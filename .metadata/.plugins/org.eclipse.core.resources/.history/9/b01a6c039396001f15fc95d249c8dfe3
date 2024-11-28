@@ -1,0 +1,20 @@
+package JavaClasses;
+
+public class BankEmployee {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Encapsulation e = new Encapsulation();
+		
+		CoreJava01 j = new CoreJava01();
+		
+		System.out.println(e.getA());
+		
+		
+		
+		
+	}
+
+}

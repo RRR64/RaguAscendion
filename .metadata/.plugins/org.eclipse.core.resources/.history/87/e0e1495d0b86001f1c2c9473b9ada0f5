@@ -1,0 +1,73 @@
+package StringOperationsinJava;
+
+public class StringFunctions {
+
+	public static void main(String[] args) {
+	
+		//String - Sequence of Characters
+		
+		//String , String Buffer and String Builder
+		
+		//String 
+		
+		//How to declare a String ?
+		
+		String name1 = "RAGUram";
+		
+		String name2 = "raguram";
+		
+		
+		
+		//Functions on String
+		
+		//Length of String
+		
+		System.out.println((name1.length())); //7
+		
+		System.out.println((name1.toLowerCase())); //raguram
+		
+		System.out.println((name1.toUpperCase())); //RAGURAM
+		
+		String name4 = " Raguram ";
+		
+		System.out.println(name4); //RAGURAM
+		
+		
+		System.out.println((name4.trim())); //RAGURAM- Remove Spaces
+		
+		//Concat 
+		
+		String fname = "Raguram";
+		
+		String lname = "Ramdoss";
+		
+		System.out.println(fname.concat(lname)); 
+		
+		System.out.println(fname + lname);
+		
+		//indexof
+		
+		String data = "I am the user of this Account";
+		
+		System.out.println(data.indexOf('t')); // Returns the index of Particular char or String
+		
+		
+		System.out.println(data.charAt(9));
+		
+		//Sub-String
+		
+		System.out.println(data.substring(2));
+		
+		
+		
+		
+		
+		
+		
+		
+				
+		
+		
+	}
+
+}
