@@ -1,0 +1,28 @@
+package JavaClasses;
+
+public class Methods {
+
+	
+	void add() 
+	
+	{
+	
+		System.out.println("Print the user");
+	
+}
+	public static void main(String[] args) {
+		
+		//To perform set of actions 
+		//we can avoid duplication of code
+		//Declartion of methods
+		//User defined methods
+		
+		Methods me = new Methods();
+		
+		me.add();
+		
+		
+		
+
+}
+}

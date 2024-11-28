@@ -1,0 +1,13 @@
+package JavaClasses;
+
+public class Encapsulation {
+
+	
+	private int a;
+	
+	private int b ;
+	
+	//setters and getters
+
+	
+}

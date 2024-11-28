@@ -1,0 +1,25 @@
+package JavaClasses;
+
+
+public class CoreJava01 {
+	
+	
+	int a;
+	
+	/*
+	 * Three types of Variable :
+	 * 
+	 * Class Variable/Instance variable - It can be accessed anywhere in class
+	 * 
+	 * Local Variable - accessible only within the methods
+	 * 
+	 * Global Variable - Java doesn't support Global
+	 * 
+	 */	public static void main(String[] args) {
+		
+		
+		int b;
+
+	}
+
+}

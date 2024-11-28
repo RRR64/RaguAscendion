@@ -1,0 +1,21 @@
+package JavaClasses;
+
+public class Encapsulation {
+
+	
+	private int a;
+	
+	private int b ;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//Encapsulation - Process of bing variables and methods in a single unit
+		
+		//Security Purpose
+		
+		
+	}
+
+}

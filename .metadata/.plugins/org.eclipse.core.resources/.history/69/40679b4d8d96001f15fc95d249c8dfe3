@@ -1,0 +1,26 @@
+package JavaClasses;
+
+public class Employee {
+	
+	
+	//Quite similiar to method with respect to declaration 
+	
+	//Constructor name should be same as class name
+	
+	//Constructor should not have return type
+	
+	 Employee()
+	
+	{
+	
+		System.out.println("Print the emp");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Employee e = new Employee();
+
+	}
+
+}

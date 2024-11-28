@@ -1,0 +1,29 @@
+package StringOperationsinJava;
+
+public class StringFunctions {
+
+	public static void main(String[] args) {
+	
+		//String - Sequence of Characters
+		
+		//String , String Buffer and String Builder
+		
+		//String 
+		
+		//How to declare a String ?
+		
+		String name = "Raguram";
+		
+		String user = new String("RaguramRamdoss");
+		
+		//Functions on String
+		
+		//Length of String
+		
+		System.out.println((name.length()));
+				
+		
+		
+	}
+
+}

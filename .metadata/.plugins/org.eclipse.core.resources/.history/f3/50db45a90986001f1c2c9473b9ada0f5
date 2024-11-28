@@ -1,0 +1,48 @@
+package StringOperationsinJava;
+
+public class StringFunctions {
+
+	public static void main(String[] args) {
+	
+		//String - Sequence of Characters
+		
+		//String , String Buffer and String Builder
+		
+		//String 
+		
+		//How to declare a String ?
+		
+		String name1 = "RAGUram";
+		
+		String name2 = "raguram";
+		
+		
+		
+		//Functions on String
+		
+		//Length of String
+		
+		System.out.println((name1.length())); //7
+		
+		System.out.println((name1.toLowerCase())); //raguram
+		
+		System.out.println((name1.toUpperCase())); //RAGURAM
+		
+		String name3 = " Raguram ";
+		
+		System.out.println((name1.trim())); //RAGURAM
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+		
+		
+	}
+
+}
